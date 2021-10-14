@@ -81,9 +81,10 @@ def flairOrganize(flairs):
         if flair not in FlairList:
             FlairList.append(flair)
         # Tries to add 1 to the count each flair has mentioned
+        total += 1
         try:
             FlairDict[flair] += 1
-            total += 1
+          
         except KeyError:
             FlairDict[flair] = 1
 
