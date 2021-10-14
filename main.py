@@ -156,8 +156,10 @@ def FlairsDisplay(organizedflairs, exploding=None):
 
 def main():
     # Subreddit being used
-    init("teenagers")
-    flairs = getflairs(100)
+    sub = input("Please Enter Subreddit")
+    init(sub)
+    x = input("Please Enter Amount of posts")
+    flairs = getflairs(x)
     organizedflairs = flairOrganize(flairs)
     FlairsDisplay(organizedflairs=organizedflairs, exploding='None')
 
