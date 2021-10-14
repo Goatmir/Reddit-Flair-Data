@@ -1,7 +1,8 @@
 # Code Created by Goatmir
 # Reachable at @Princess Goatmir#5757 (discord)
 # © Copyright 2021, Goatmir, All Rights Reserved
-# Fair Use 2021
+# Fair Usage
+
 #  GGGGGG     OOOOOO        AAA     TTTTTTTTTT   MMM       MMM   IIIIIIII   RRRRRRR
 # GG         OO    OO      AA AA        TT       MMMM     MMMM      II      RR    RR
 # GG  GGGG   OO    OO     AAAAAAA       TT       MM MM   MM MM      II      RRRRRRR
