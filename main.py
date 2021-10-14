@@ -114,7 +114,7 @@ def FlairsDisplay(organizedflairs, exploding=None):
         try:
             color = ColorList[i]
         except IndexError:
-            i -= len(labels)
+            i -= (len(labels) + 1)
             color = ColorList[i]
         colors.append(color)
     # Gets the sizes of each flair and adds them to to "sizes"
